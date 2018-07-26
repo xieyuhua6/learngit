@@ -5,3 +5,4 @@ Fast-forward
 Auto-merging
 add conflict
 Conflict
+new dev
