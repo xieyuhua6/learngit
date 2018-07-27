@@ -6,3 +6,7 @@ Auto-merging
 add conflict
 Conflict
 new dev
+cc
+dd
+cc
+aa
