@@ -9,7 +9,8 @@ Conflict
 
 为了导致冲突，在主分支添加内容
 new dev
-cc
+c
+c
 dd
 cc
 aa
